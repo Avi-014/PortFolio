@@ -97,7 +97,7 @@ body {
     font-weight: 400;
     font-size: 13px;
     background: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.77)),
-        rgba(0, 0, 0, 0.55) url('page2bg.jpg') no-repeat center;
+        rgba(0, 0, 0, 0.55) url('img/page2bg.jpg') no-repeat center;
     background-size: cover;
     text-align: center;
     text-rendering: optimizeLegibility;
@@ -483,7 +483,7 @@ input[readonly] {
 #bgg {
 
     background: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.77)),
-        rgba(0, 0, 0, 0.55) url('Java_Programmer.jpg') no-repeat center;
+        rgba(0, 0, 0, 0.55) url('img/Java_Programmer.jpg') no-repeat center;
     background-size: cover;
     color: #fff;
     text-align: center;
