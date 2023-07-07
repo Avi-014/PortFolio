@@ -488,11 +488,10 @@ input[readonly] {
     color: #fff;
     text-align: center;
     text-rendering: optimizeLegibility;
+    padding: 15px, 10px, 15px;
+    padding-top: 100px;
     margin: 0;
-    height: 750px;
-    min-height: 700px;
-    padding-top: 50px;
-
+    min-height: 75  0px;
 }
 
 .navbar-brand :hover {
